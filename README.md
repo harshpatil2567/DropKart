@@ -1,11 +1,11 @@
 # DropKart - A Decentralized Peer-To-Peer Hyperlocal Delivery App For Public Welfare 
 🔍 <b>Brief Project Description</b>
 
-PeerDrop is a decentralized, peer-to-peer hyperlocal delivery platform that empowers individuals to send and deliver packages in their neighborhood — without relying on centralized, commission-heavy platforms.
+DropKart is a decentralized, peer-to-peer hyperlocal delivery platform that empowers individuals to send and deliver packages in their neighborhood — without relying on centralized, commission-heavy platforms.
 
 With a mobile-first, real-time interface, anyone can become a sender or a delivery agent. Small tasks like sending lunch to school, delivering forgotten keys, or moving documents across town can now be completed quickly, affordably, and directly — by people in the community.
 
-Built as a Progressive Web App (PWA) with a focus on speed, simplicity, and decentralization, PeerDrop connects people — not platforms.
+Built as a Progressive Web App (PWA) with a focus on speed, simplicity, and decentralization, DropKart connects people — not platforms.
 
 🌟 <b><u>Key Features</u></b>
 🔐 <b>Phone-Based OTP Authentication</b>
